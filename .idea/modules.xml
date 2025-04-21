@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BaiTapBai1/BaiTapBai1.iml" filepath="$PROJECT_DIR$/BaiTapBai1/BaiTapBai1.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTapBai2/BaiTapBai2.iml" filepath="$PROJECT_DIR$/BaiTapBai2/BaiTapBai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapBai3/BaiTapBai3.iml" filepath="$PROJECT_DIR$/BaiTapBai3/BaiTapBai3.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAStackQueue.iml" filepath="$PROJECT_DIR$/DSAStackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanhBai1/ThucHanhBai1.iml" filepath="$PROJECT_DIR$/ThucHanhBai1/ThucHanhBai1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanhBai2/ThucHanhBai2.iml" filepath="$PROJECT_DIR$/ThucHanhBai2/ThucHanhBai2.iml" />
