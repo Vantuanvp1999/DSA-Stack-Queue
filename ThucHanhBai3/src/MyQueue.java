@@ -55,4 +55,13 @@ public class MyQueue {
 
         }
     }
+    public void displayQueue(){
+        if(currentSize==0){
+            System.out.println("Queue is empty");
+        }else{
+            for(int i=head;i<=tail;i++){
+                System.out.print(queueArr[i]+" ");
+            }
+        }
+    }
 }

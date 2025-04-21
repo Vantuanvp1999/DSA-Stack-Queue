@@ -10,6 +10,6 @@ public class Main {
     m.enqueue(5);
     m.dequeue();
     m.dequeue();
-    
+    m.displayQueue();
     }
 }
